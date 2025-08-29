@@ -7,6 +7,7 @@
 ## congenital rubella cases.
 
 ## Imports ----
+install.packages("survey")
 library(tidyverse)
 library(here)
 library(survey)

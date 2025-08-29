@@ -4,6 +4,9 @@
 ## births by state, year, and age group.
 
 ## Imports ----
+install.packages("tidyverse")
+install.packages("janitor")
+install.packages("here")
 library(tidyverse)
 library(here)
 library(janitor)

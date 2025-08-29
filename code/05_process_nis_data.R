@@ -9,6 +9,9 @@
 ## age-specific immunity profiles for the model.
 
 ## Imports ----
+install.packages("fs")
+install.packages("Hmisc")
+install.packages("duckdb")
 library(tidyverse)
 library(here)
 library(fs)

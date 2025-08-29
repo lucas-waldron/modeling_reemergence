@@ -1,4 +1,7 @@
 ## Imports ----
+install.packages("duckdb")
+install.packages("arrow")
+install.packages("zoo")
 library(tidyverse)
 library(here)
 library(fs)
